@@ -1,0 +1,10 @@
+c:\users\света\source\repos\Automat1\Automat1\obj\Debug\Automat1.csprojResolveAssemblyReference.cache
+c:\users\света\source\repos\Automat1\Automat1\obj\Debug\Automat1.csproj.CoreCompileInputs.cache
+c:\users\света\source\repos\Automat1\Automat1\bin\Debug\Automat1.exe.config
+c:\users\света\source\repos\Automat1\Automat1\bin\Debug\Automat1.exe
+c:\users\света\source\repos\Automat1\Automat1\bin\Debug\Automat1.pdb
+c:\users\света\source\repos\Automat1\Automat1\bin\Debug\Newtonsoft.Json.dll
+c:\users\света\source\repos\Automat1\Automat1\bin\Debug\Newtonsoft.Json.xml
+c:\users\света\source\repos\Automat1\Automat1\obj\Debug\Automat1.csproj.CopyComplete
+c:\users\света\source\repos\Automat1\Automat1\obj\Debug\Automat1.exe
+c:\users\света\source\repos\Automat1\Automat1\obj\Debug\Automat1.pdb

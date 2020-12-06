@@ -1,0 +1,7 @@
+int a = 123;
+double b = 12.5;
+double sum = 0;
+
+while (s < 600) {
+  s = s + a + b;
+}
